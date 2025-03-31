@@ -1,0 +1,74 @@
+[
+    {
+        "discipline_id": 1,
+        "teacher_id": 1,
+        "type": "lecture",
+        "start_time": "2025-03-14T19:00:00",
+        "end_time": "2025-03-14T21:00:00",
+        "extra_data": {
+            "system": "Zoom",
+            "room_id": "230340930",
+            "topic": "Основы машинного обучения"
+        }
+    },
+    {
+        "discipline_id": 2,
+        "teacher_id": 2,
+        "type": "practice",
+        "start_time": "2025-03-14T19:00:00",
+        "end_time": "2025-03-14T21:00:00",
+        "extra_data": {
+            "system": "MS Teams",
+            "room_id": "457839201",
+            "topic": "Программирование на Python"
+        }
+    },
+    {
+        "discipline_id": 3,
+        "teacher_id": 3,
+        "type": "seminar",
+        "start_time": "2025-03-15T09:30:00",
+        "end_time": "2025-03-15T11:30:00",
+        "extra_data": {
+            "system": "MTS Link",
+            "room_id": "874230487",
+            "topic": "Оптимизация баз данных"
+        }
+    },
+    {
+        "discipline_id": 1,
+        "teacher_id": 1,
+        "type": "lecture",
+        "start_time": "2025-03-28T19:00:00",
+        "end_time": "2025-03-28T21:00:00",
+        "extra_data": {
+            "system": "Zoom",
+            "room_id": "230340930",
+            "topic": "Основы машинного обучения"
+        }
+    },
+    {
+        "discipline_id": 2,
+        "teacher_id": 2,
+        "type": "practice",
+        "start_time": "2025-03-28T19:00:00",
+        "end_time": "2025-03-28T21:00:00",
+        "extra_data": {
+            "system": "MS Teams",
+            "room_id": "457839201",
+            "topic": "Программирование на Python"
+        }
+    },
+    {
+        "discipline_id": 3,
+        "teacher_id": 3,
+        "type": "seminar",
+        "start_time": "2025-03-29T09:30:00",
+        "end_time": "2025-03-29T11:30:00",
+        "extra_data": {
+            "system": "MTS Link",
+            "room_id": "874230487",
+            "topic": "Оптимизация баз данных"
+        }
+    }
+]

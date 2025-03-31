@@ -1,0 +1,36 @@
+[
+    {
+        "info": {
+            "first_name": "Иван",
+            "last_name": "Иванов",
+            "patronymic": "Иванович",
+            "birth_year": 1998,
+            "city": "Москва",
+            "group": "101",
+            "hobbies": ["программирование", "шахматы"]
+        }
+    },
+    {
+        "info": {
+            "first_name": "Петр",
+            "last_name": "Петров",
+            "patronymic": "Алексеевич",
+            "birth_year": 1999,
+            "city": "Санкт-Петербург",
+            "group": "102",
+            "hobbies": ["танцы", "музыка"]
+        }
+    },
+    {
+        "info": {
+            "first_name": "Ольга",
+            "last_name": "Смирнова",
+            "patronymic": "Алексеевна",
+            "birth_year": 2001,
+            "city": "Архангельск",
+            "group": "103",
+            "hobbies": ["искусство", "туризм"]
+        }
+    }
+  ]
+  

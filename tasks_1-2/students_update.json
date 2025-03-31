@@ -1,0 +1,172 @@
+[
+    {
+        "full_name": "Иванов Иван Иванович",
+        "age": 22,
+        "gender": "мужской",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": false
+        },
+        "grades": {
+            "Математика": 5,
+            "Физика": 4
+        },
+        "info": {
+            "email": "ivanov@example.com",
+            "group": "101"
+        }
+    },
+    {
+        "full_name": "Петрова Анна Сергеевна",
+        "age": 21,
+        "gender": "женский",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": true
+        },
+        "grades": {
+            "Программирование": 5,
+            "Базы данных": 5
+        },
+        "info": {
+            "email": "petrova@example.com",
+            "group": "102"
+        }
+    },
+    {
+        "full_name": "Сидоров Алексей Петрович",
+        "age": 23,
+        "gender": "мужской",
+        "attendance": {
+            "Лекция 1": false,
+            "Семинар 2": true
+        },
+        "grades": {
+            "История": 4,
+            "Химия": 3
+        },
+        "info": {
+            "email": "sidorov@example.com",
+            "group": "103"
+        }
+    },
+    {
+        "full_name": "Козлова Елена Дмитриевна",
+        "age": 20,
+        "gender": "женский",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": true
+        },
+        "grades": {
+            "Литература": 5,
+            "Биология": 4
+        },
+        "info": {
+            "email": "kozlova@example.com",
+            "group": "104"
+        }
+    },
+    {
+        "full_name": "Новиков Павел Сергеевич",
+        "age": 24,
+        "gender": "мужской",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": false
+        },
+        "grades": {
+            "Философия": 4,
+            "Экономика": 5
+        },
+        "info": {
+            "email": "novikov@example.com",
+            "group": "105"
+        }
+    },
+    {
+        "full_name": "Морозова Ольга Александровна",
+        "age": 19,
+        "gender": "женский",
+        "attendance": {
+            "Лекция 1": false,
+            "Семинар 2": false
+        },
+        "grades": {
+            "География": 3,
+            "Английский": 5
+        },
+        "info": {
+            "email": "morozova@example.com",
+            "group": "106"
+        }
+    },
+    {
+        "full_name": "Федоров Денис Игоревич",
+        "age": 25,
+        "gender": "мужской",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": true
+        },
+        "grades": {
+            "Информатика": 5,
+            "Физика": 4
+        },
+        "info": {
+            "email": "fedorov@example.com",
+            "group": "107"
+        }
+    },
+    {
+        "full_name": "Васильева Мария Игоревна",
+        "age": 22,
+        "gender": "женский",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": false
+        },
+        "grades": {
+            "Математика": 5,
+            "Программирование": 5
+        },
+        "info": {
+            "email": "vasileva@example.com",
+            "group": "108"
+        }
+    },
+    {
+        "full_name": "Кузнецов Артем Викторович",
+        "age": 21,
+        "gender": "мужской",
+        "attendance": {
+            "Лекция 1": false,
+            "Семинар 2": true
+        },
+        "grades": {
+            "История": 4,
+            "Литература": 4
+        },
+        "info": {
+            "email": "kuznetsov@example.com",
+            "group": "109"
+        }
+    },
+    {
+        "full_name": "Соколова Анастасия Павловна",
+        "age": 20,
+        "gender": "женский",
+        "attendance": {
+            "Лекция 1": true,
+            "Семинар 2": true
+        },
+        "grades": {
+            "Химия": 5,
+            "Биология": 5
+        },
+        "info": {
+            "email": "sokolova@example.com",
+            "group": "110"
+        }
+    }
+]

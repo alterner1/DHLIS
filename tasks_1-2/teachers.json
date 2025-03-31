@@ -1,0 +1,35 @@
+[
+    {
+        "info": {
+            "first_name": "Игорь",
+            "last_name": "Павлов",
+            "patronymic": "Андреевич",
+            "birth_year": 1975,
+            "city": "Москва",
+            "department": "Науки о данных",
+            "rank": "профессор"
+        }
+    },
+    {
+        "info": {
+            "first_name": "Ольга",
+            "last_name": "Кузнецова",
+            "patronymic": "Викторовна",
+            "birth_year": 1980,
+            "city": "Новосибирск",
+            "department": "Информационных технологий",
+            "rank": "доцент"
+        }
+    },
+    {
+        "info": {
+            "first_name": "Дмитрий",
+            "last_name": "Смирнов",
+            "patronymic": "Олегович",
+            "birth_year": 1983,
+            "city": "Пермь",
+            "department": "Информационных технологий",
+            "rank": "ассистент"
+        }
+    }
+]
