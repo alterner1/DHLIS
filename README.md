@@ -1,3 +1,7 @@
 # DHLIS 
 ## Задание 1 (на Postgres загрузка json) 
+(task1.txt "Задание 1")
+(pg_db_task1.ipynb "Notebook task1")
 ## Задание 2 (на XML-RPC с Python)
+(task2.txt "Задание 2")
+(pg_db_task2.ipynb "Notebook task2")
